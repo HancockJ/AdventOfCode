@@ -31,3 +31,9 @@ def get_lists()
   end
   a,b = a.sort, b.sort
 end
+
+
+print "Day 1 part 1", "\n"
+puts day1_1()
+print "Day 1 part 2", "\n"
+puts day1_2()
